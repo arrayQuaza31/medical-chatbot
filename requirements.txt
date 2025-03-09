@@ -1,0 +1,11 @@
+python-dotenv
+pymupdf
+sentence-transformers
+langchain
+langchain-groq
+langchain-core
+langchain-community
+langchain-pinecone
+pinecone[grpc]
+fastapi
+-e .
